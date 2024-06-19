@@ -88,3 +88,4 @@ const Grid = ({ rows, cols, drawMode, selectedColor }) => {
 };
 
 export default Grid;
+
